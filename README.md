@@ -4,15 +4,15 @@ A react based google book search app for book lovers to search for their favorit
 
 ## Search Page 🔍
 
-![searchgif](/images/SearchPage.gif)
+
 
 ## Saved Page 💾
 
-![savedgif](/images/SavedPage.gif)
+
 
 ## Demo
 
-Google Books is hosted on Heroku. Check it out live by [clicking here](https://fernanda-google-books.herokuapp.com/).
+
 
 ## How It Works
 
