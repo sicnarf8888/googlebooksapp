@@ -29,7 +29,7 @@ Save a book to the Mongo database | Delete a book, removing it from the Mongo da
 To run this application locally, use http://localhost:3000 after completing the following steps.
 
 ```js
-git clone git@github.com:fernandamarr/Google-Books-App.git
+
 cd google-books-app
 npm install
 npm start
